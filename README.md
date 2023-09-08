@@ -43,7 +43,7 @@ A Compiled windows executable is available from the releases page that can be ru
 # Installation
 
 ```
-$ git clone https://github.com/DavidMGilbert/btc-hack.git btc-hack
+$ git clone https://github.com/h1opok/btc-hack.git btc-hack
 ```
 
 # Quick Start
@@ -92,4 +92,4 @@ However, if a wallet with a balance is found, then all necessary information abo
 - [X] Find a faster FREE API with greater allowances. 
 
 
-<a href="https://github.com/davidmgilbert/btc-hack/issues">Create an issue</a> so I can add more stuff to improve
+<a href="https://github.com/h1opok/btc-hack/issues">Create an issue</a> so I can add more stuff to improve
