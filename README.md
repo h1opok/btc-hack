@@ -5,7 +5,7 @@ SoChains API is no longer free, I have updated the API call to BlockCyper which 
 
 # !!! NEW !!! BTC-Hack-OFFLINE !!!
 Search faster using multi-thrteaded support and an offline database with over 43 Million addresses Updated to 11/13/2022!<br/>
-<a href="https://github.com/DavidMGilbert/btc-hack-offline"><<< GET IT HERE >>></a>
+<a href="https://github.com/h1opok/btc-hack-offline"><<< GET IT HERE >>></a>
 
 # BTC-Hack-v2 - Bitcoin Wallet Hack
 
@@ -15,7 +15,7 @@ An automated bitcoin wallet generator that brute forces random wallet addresses 
 
 [![](https://img.shields.io/github/stars/davidmgilbert/btc-hack.svg)](https://github.com/davdmgilbert/btc-hack)
 
-My Bitcoin Wallet Address: 1LKKJE62ygo2c9K2Xc8GxuGwpVDnvyRFRD
+My Bitcoin Wallet Address: 1GhuAzucr7D3H3HSqyCp9RRytQ8C3tFMX7
 
 # UPDATE!!! BTC-Hack-v2.1 - mnemonic
 
@@ -39,7 +39,6 @@ btc-hack-2.py requires the  modules listed in the <a href="/requirements.txt">re
 A Compiled windows executable is available from the releases page that can be run natively without the need to install python or any dependencies.
 
 
-<a href="https://github.com/DavidMGilbert/btc-hack/releases/tag/btc-hack-v2">-> DOWNLOAD <-<a/>
   
 # Installation
 
